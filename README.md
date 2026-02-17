@@ -1,4 +1,5 @@
-This repository contains my solutions to various LeetCode problems focused on the Stack data structure.
+🚀 LeetCode Journey: daily-Algorithms
+Welcome to my daily algorithm repository! I am dedicated to sharpening my problem-solving skills and mastering data structures through daily practice. This repo serves as a technical log of my progress, architectural decisions, and optimization strategies.
 
-📌 About
-A stack is a linear data structure that follows the Last-In, First-Out (LIFO) principle. The last element added to the stack is the first one to be removed.
+🏗️ Repository Structure
+The solutions are organized by Difficulty to showcase my progression from foundational concepts to complex system logic.
